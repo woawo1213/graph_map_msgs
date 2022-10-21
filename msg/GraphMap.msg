@@ -1,3 +1,3 @@
 std_msgs/Header header
-wr_nav_msgs/GraphNode[] nodes
-wr_nav_msgs/GraphEdge[] edges
+graph_map_msgs/GraphNode[] nodes
+graph_map_msgs/GraphEdge[] edges
